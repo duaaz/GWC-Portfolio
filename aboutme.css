@@ -1,0 +1,44 @@
+h1{
+  font-family: 'Julius Sans One', monospace;
+  text-align: center;
+  background-color: Pink;
+}
+h2{
+  text-align: center;
+  background-color: #ff00ff;
+}
+
+h2, p, ul, li{
+  font-family: 'Shadows Into Light Two', cursive;
+}
+.makeBlue{
+  color: blue;
+}
+
+.pink {
+  color: pink;
+}
+
+.centerText{
+  text-align: center;
+}
+
+.purple{
+  color: Purple;
+}
+
+.SeattleImage{
+  display: block;
+  margin: auto;
+  width: 1000px;
+  height: 500px;
+
+}
+
+.FamBam{
+  display: block;
+  margin: auto;
+  width: 670px;
+  height: 500px;
+}
+
