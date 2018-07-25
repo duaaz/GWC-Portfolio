@@ -5,11 +5,15 @@ h1{
 }
 h2{
   text-align: center;
-  background-color: #ff00ff;
+  background-color: #FF2CFF;
 }
 
 h2, p, ul, li{
   font-family: 'Shadows Into Light Two', cursive;
+}
+
+.Italicize{
+  font-style: italic;
 }
 .makeBlue{
   color: blue;
@@ -41,4 +45,5 @@ h2, p, ul, li{
   width: 670px;
   height: 500px;
 }
+
 
